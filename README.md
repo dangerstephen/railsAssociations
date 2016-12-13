@@ -1,3 +1,9 @@
+#ONE to many Challange 
+https://github.com/sf-wdi-33/rails-associations/blob/master/one_to_many_challenges.md
+
+#Many to Many Challange 
+https://github.com/sf-wdi-33/rails-associations/blob/master/many_to_many_challenges.md
+
 # README
 
 This README would normally document whatever steps are necessary to get the
